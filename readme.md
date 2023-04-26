@@ -8,6 +8,21 @@
 - Lu, J., Batra, D., Parikh, D., & Lee, S. (2019). ["Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks"](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf). Advances in neural information processing systems, 32.
 - Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021, July). ["Learning transferable visual models from natural language supervision"](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf). In International conference on machine learning (pp. 8748-8763). PMLR.
 - Shi, Y., Paige, B., & Torr, P. (2019). ["Variational mixture-of-experts autoencoders for multi-modal deep generative models"](https://proceedings.neurips.cc/paper/2019/file/0ae775a8cb3b499ad1fca944e6f5c836-Paper.pdf). Advances in Neural Information Processing Systems, 32.
+
 ## Applications
 
 # Dynamic Embeddings
+
+## Methods
+- Kutuzov, A., Øvrelid, L., Szymanski, T., & Velldal, E. (2018). ["Diachronic word embeddings and semantic shifts: a survey"](https://arxiv.org/pdf/1806.03537.pdf). arXiv preprint arXiv:1806.03537.
+- Rudolph, M., & Blei, D. (2018, April). ["Dynamic embeddings for language evolution"](https://dl.acm.org/doi/pdf/10.1145/3178876.3185999). In Proceedings of the 2018 world wide web conference (pp. 1003-1011).
+- Bamler, R., & Mandt, S. (2017, July). ["Dynamic word embeddings"](http://proceedings.mlr.press/v70/bamler17a/bamler17a.pdf). In International conference on Machine learning (pp. 380-389). PMLR.
+- Dieng, A. B., Ruiz, F. J., & Blei, D. M. (2019). ["The dynamic embedded topic model"](https://arxiv.org/pdf/1907.05545.pdf). arXiv preprint arXiv:1907.05545.
+- Giulianelli, M., Del Tredici, M., & Fernández, R. (2020). ["Analysing lexical semantic change with contextualised word representations"](https://arxiv.org/pdf/2004.14118.pdf). arXiv preprint arXiv:2004.14118.
+- Dhingra, B., Cole, J. R., Eisenschlos, J. M., Gillick, D., Eisenstein, J., & Cohen, W. W. (2022). ["Time-aware language models as temporal knowledge bases"](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00459/110012/Time-Aware-Language-Models-as-Temporal-Knowledge). Transactions of the Association for Computational Linguistics, 10, 257-273.
+
+## Applications
+- Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). ["Word embeddings quantify 100 years of gender and ethnic stereotypes"](https://www.pnas.org/doi/full/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences, 115(16), E3635-E3644.
+- Soni, S., Lerman, K., & Eisenstein, J. (2021). ["Follow the leader: Documents on the leading edge of semantic change get more citations"](https://asistdl.onlinelibrary.wiley.com/doi/am-pdf/10.1002/asi.24421). Journal of the Association for Information Science and Technology, 72(4), 478-492.
+- Lucy, L., & Bamman, D. (2021). ["Characterizing English variation across social media communities with BERT"](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00383/101877). Transactions of the Association for Computational Linguistics, 9, 538-556.
+- Hofmarcher, P., Adhikari, S., & Grün, B. (2022). ["Gaining Insights on US Senate Speeches Using a Time Varying Text Based Ideal Point Model"](https://arxiv.org/pdf/2206.10877.pdf). arXiv preprint arXiv:2206.10877.

@@ -11,6 +11,12 @@
 
 ## Applications
 
+- Dew, Ryan, Asim Ansari, and Olivier Toubia. ["Letting logos speak: Leveraging multiview representation learning for data-driven branding and logo design."](https://pubsonline.informs.org/doi/abs/10.1287/mksc.2021.1326) Marketing Science 41.2 (2022): 401-425.
+- Tian, Zijun and Dew, Ryan and Iyengar, Raghuram. ["Mega or Micro? Influencer Selection Using Follower Elasticity"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4173421). **Working Paper**. Available at SSRN: https://ssrn.com/abstract=4173421 or http://dx.doi.org/10.2139/ssrn.4173421
+- Burnap, Alex, John R. Hauser, and Artem Timoshenko. ["Product aesthetic design: A machine learning augmentation."](https://pubsonline.informs.org/doi/full/10.1287/mksc.2022.1429). **Forthcoming**. Marketing Science (2023).
+- Davide Costa, Lucio La Cava, and Andrea Tagarelli. 2023. ["Show me your NFT and I tell you how it will perform: Multimodal representation learning for NFT selling price prediction"](https://arxiv.org/abs/2302.01676). In Proceedings of the ACM Web Conference 2023 (WWW '23). Association for Computing Machinery, New York, NY, USA, 1875–1885. https://doi.org/10.1145/3543507.3583520
+- Cheng, Zhaoqi and Lee, Dokyun and Tambe, Prasanna. ["InnoVAE: Generative AI for Understanding Patents and Innovation"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3868599). **Working Paper**. Available at SSRN: https://ssrn.com/abstract=3868599 or http://dx.doi.org/10.2139/ssrn.3868599
+
 # Dynamic Embeddings
 
 ## Methods
